@@ -9,5 +9,5 @@
 
 #### More info
 
-[Cómo usar ffmpeg para editar video](https://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
-[Formatos de video: Todo lo que deberías saber](https://www.emezeta.com/articulos/formatos-de-video-todo-lo-que-deberias-saber)
+- [Cómo usar ffmpeg para editar video](https://www.emezeta.com/articulos/como-usar-ffmpeg-para-editar-video)
+- [Formatos de video: Todo lo que deberías saber](https://www.emezeta.com/articulos/formatos-de-video-todo-lo-que-deberias-saber)
