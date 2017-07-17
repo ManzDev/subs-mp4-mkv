@@ -1,0 +1,1 @@
+ffmpeg -i %1 -vf "subtitles=%2" output-sub.mp4
